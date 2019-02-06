@@ -1,0 +1,18 @@
+{
+  "gateway_conf": {
+    "gateway_ID": "58A0CBFFFF8005B8",
+    "servers": [
+      {
+        "server_address": "router.eu.thethings.network",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+    "ref_latitude": 42.1457955,
+    "ref_longitude": 24.7503162,
+    "ref_altitude": 40,
+    "contact_email": "offeracount@abv.bg",
+    "description": "TTN TU-Plovdiv Gate 003"
+  }
+}
